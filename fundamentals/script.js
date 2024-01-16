@@ -1,9 +1,12 @@
-/*
-////////////////////////////////////
-// Linking a JavaScript File
 let js = "amazing";
 console.log(40 + 8 + 23 - 10);
 
+if (js == "a") alert("js");
+
+40 + 8 + 0;
+/*
+////////////////////////////////////
+// Linking a JavaScript File
 ////////////////////////////////////
 // Values and Variables
 console.log("Jonas");
