@@ -4,6 +4,8 @@ console.log(40 + 8 + 23 - 10);
 if (js == "a") alert("js");
 
 40 + 8 + 0;
+
+console.log(js);
 /*
 ////////////////////////////////////
 // Linking a JavaScript File
