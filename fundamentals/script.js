@@ -1,42 +1,37 @@
-let js = "amazing";
-console.log(40 + 8 + 23 - 10);
+// let js = "amazing";
+// console.log(40 + 8 + 23 - 10);
 
-if (js == "a") alert("js");
+// if (js == "a") alert("js");
 
-40 + 8 + 0;
+// 40 + 8 + 0;
+// let years = 3;
+// console.log(js);
 
-console.log(js);
+// console.log("Jonas");
+// console.log(23);
+
+// let firstName = "Matilda";
+
+// console.log(firstName);
+// console.log(firstName);
+// console.log(firstName);
+
+// // Variable name conventions
+// let jonas_matilda = "JM";
+// let $function = 27;
+
+// let person = "jonas";
+// let PI = 3.1415;
+
+// let myFirstJob = "Coder";
+// let myCurrentJob = "Teacher";
+
+// let job1 = "programmer";
+// let job2 = "teacher";
+
+// console.log(myFirstJob);
+
 /*
-////////////////////////////////////
-// Linking a JavaScript File
-////////////////////////////////////
-// Values and Variables
-console.log("Jonas");
-console.log(23);
-
-let firstName = "Matilda";
-
-console.log(firstName);
-console.log(firstName);
-console.log(firstName);
-
-// Variable name conventions
-let jonas_matilda = "JM";
-let $function = 27;
-
-let person = "jonas";
-let PI = 3.1415;
-
-let myFirstJob = "Coder";
-let myCurrentJob = "Teacher";
-
-let job1 = "programmer";
-let job2 = "teacher";
-
-console.log(myFirstJob);
-
-////////////////////////////////////
-// Data Types
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
 
